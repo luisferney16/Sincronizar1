@@ -9,7 +9,8 @@
 </head>
 <body>
 
-    <h1>Hola mundo, ya estamos resolviendo conflictos 1
-
+    <h1>Hola mundo, ya estamos resolviendo conflictos </h1>
+    <p> los conflictos sociales son causados por los traumas familiares  </p>
+    
 </body>
 </html>
