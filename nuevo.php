@@ -8,8 +8,8 @@
     <title>Document</title>
 </head>
 <body>
-<?php
-    echo "Actualizando en rama master";
-?>    
+
+    <h1>Hola mundo, ya estamos resolviendo conflictos 1
+
 </body>
 </html>
