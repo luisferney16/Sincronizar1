@@ -10,6 +10,6 @@
 <body>
 
     <h1>Hola mundo, ya estamos resolviendo conflictos 1
-
+    <h1> Actualizando para identificar y resolver conflictos 2
 </body>
 </html>
